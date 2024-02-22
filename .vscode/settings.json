@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "Project.C": "cpp",
+        "first program.C": "cpp",
+        "first_program.C": "cpp",
+        "Strings.C": "cpp",
+        "Square_RootWithout_Library_Function.C": "cpp",
+        "Garbage_value.C": "cpp",
+        "Array_runtime_initilization.C": "cpp",
+        "Cuda.C": "cpp",
+        "Number_Conversion.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabledIfIncludesResolve",
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\g++.exe"
+}
